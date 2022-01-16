@@ -1,0 +1,42 @@
+.final {
+  background-color: white;
+  width: 75vw;
+  height: 50vh;
+  display: flex;
+  border: 1px solid lightgray;
+  align-items: center;
+  justify-content: center;
+}
+
+.Leftbox {
+  width: 35vw;
+  height: 45vh;
+
+  display: flex;
+  flex-direction: column;
+}
+.Rightbox {
+  background-color: white;
+  width: 35vw;
+  height: 45vh;
+  display: grid;
+  place-items: center;
+}
+.Heading {
+  width: 35vw;
+  height: 10vh;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  line-height: 0px;
+}
+.move {
+  height: 200px;
+  width: 350px;
+}
+.matter {
+  font-size: larger;
+}
+.matterr {
+  font-size: small;
+}

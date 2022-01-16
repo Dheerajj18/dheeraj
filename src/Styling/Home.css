@@ -1,0 +1,159 @@
+.Head {
+  background-color: rgb(253, 214, 221);
+  height: 120vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Head_sub {
+  background-color: white;
+  height: 80vh;
+  width: 60vw;
+
+  display: flex;
+  flex-direction: column;
+
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+.flex {
+  display: flex;
+}
+
+.Head_mini {
+  background-color: whitesmoke;
+  height: 40vh;
+  width: 60vw;
+  display: flex;
+}
+
+.bae {
+  height: 340px;
+  width: 290px;
+
+  border-bottom-left-radius: 150px;
+  border-bottom-right-radius: 150px;
+  margin-top: 20px;
+}
+
+.Textile {
+  height: 65vh;
+  width: 30vw;
+  border-top-right-radius: 40px;
+}
+.fonts {
+  display: flex;
+  margin-top: 30px;
+}
+
+.Image {
+  width: 30vw;
+  height: 65vh;
+  display: flex;
+  justify-content: center;
+  border-top-left-radius: 40px;
+}
+
+.font {
+  margin-right: 20px;
+}
+
+.pic {
+  height: 50px;
+  width: 50px;
+}
+
+.alee {
+  color: blue;
+  margin-top: 40px;
+}
+.styles {
+  margin-top: -18px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Size {
+  font-size: x-small;
+  margin-top: -10px;
+}
+
+.button {
+  height: 40px;
+  width: 140px;
+  background-color: #5b88ff;
+  border-radius: 20px;
+  color: aliceblue;
+  border-width: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 16px;
+}
+.prop {
+  height: 15vh;
+  width: 60vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.last {
+  height: 40vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.harry {
+  height: 40vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.Design {
+  font-size: x-small;
+  margin-left: 40px;
+  margin-top: -2px;
+}
+
+.design {
+  margin-left: 40px;
+  margin-top: -2px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.cart {
+  background-color: lightskyblue;
+  height: 100px;
+  width: 350px;
+  display: flex;
+  margin-left: 30px;
+  margin-top: 20px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.harry-mini {
+  background-color: lightskyblue;
+  height: 170px;
+  width: 370px;
+  margin-left: 5px;
+  margin-top: 7px;
+  border-radius: 25px;
+}
+
+.harry-sub {
+  background-color: lightskyblue;
+  height: 60px;
+  width: 370px;
+  margin-top: 20px;
+  margin-left: 5px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.style {
+  font-family: "Times New Roman", Times, serif;
+}

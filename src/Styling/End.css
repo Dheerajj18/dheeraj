@@ -1,0 +1,33 @@
+.flags {
+  height: 20px;
+  width: 30px;
+  margin-right: 20px;
+}
+
+.Middlebox {
+  background-color: white;
+  width: 35vw;
+  height: 40px;
+  display: flex;
+
+  justify-content: space-between;
+  border-top: 1px solid lightgrey;
+}
+.leftmini {
+  height: 40px;
+
+  width: 17.5vw;
+
+  display: flex;
+  align-items: center;
+}
+.rightmini {
+  height: 40px;
+  width: 17.5vw;
+
+  display: flex;
+  align-items: center;
+}
+.Txt11 {
+  margin-right: 100px;
+}

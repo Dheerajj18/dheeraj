@@ -1,0 +1,22 @@
+.arrowdw {
+  height: 6px;
+  width: 6px;
+}
+.Main {
+  height: 20px;
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.Icon {
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+}
+.Textt {
+  display: flex;
+  flex: 0.8;
+  padding: 20px;
+}
